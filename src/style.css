@@ -33,11 +33,8 @@
     color: white;
 }
 
-body {
-    /* cursor: url(img/cursor.png), pointer;
-    cursor: url(img/cursor2.png), crosshair; */
+html, body {
     cursor: url(img/cursor.png), auto;
-    /* cursor: url(img/cursor2.png),  alias; */
 }
 
 head {
