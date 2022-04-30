@@ -1,0 +1,46 @@
+.topSection {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topSection a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topSection a:hover {
+    background-color: black;
+    color: aquamarine;
+}
+
+.topSection a.active {
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.light-mode {
+    background-color: black;
+    color: white;
+}
+
+body {
+    /* cursor: url(img/cursor.png), pointer;
+    cursor: url(img/cursor2.png), crosshair; */
+    cursor: url(img/cursor.png), auto;
+    /* cursor: url(img/cursor2.png),  alias; */
+}
+
+head {
+    cursor: url(img/cursor.png), auto;
+     /* cursor: url(img/cursor2.png),  alias; */
+}
