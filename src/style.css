@@ -17,12 +17,12 @@
 
 .topSection a:hover {
     background-color: black;
-    color: aquamarine;
+    color: white;
 }
 
 .topSection a.active {
     background-color: rgb(0, 0, 0);
-    color: aqua;
+    color: white;
 
 }
 
