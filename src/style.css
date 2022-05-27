@@ -37,11 +37,9 @@
 }
 
 html, body {
-    cursor: url(img/cursor.png), auto;
     font-family: 'Lato', sans-serif;
 }
 
 head {
     font-family: 'Lato', sans-serif;
-     /* cursor: url(img/cursor2.png),  alias; */
 }
